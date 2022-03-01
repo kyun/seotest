@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/kyun/seotest/issues"
   },
-  "homepage": "https://github.com/kyun/seotest#readme",
+  "homepage": "https://kyun.github.io/seotest/",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
